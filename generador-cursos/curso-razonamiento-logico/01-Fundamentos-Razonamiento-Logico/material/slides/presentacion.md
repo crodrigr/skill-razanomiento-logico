@@ -3,13 +3,13 @@ marp: true
 paginate: true
 ---
 
-# Fundamentos del razonamiento lógico
+# 🧠 Fundamentos del razonamiento lógico
 
 Curso: Razonamiento Lógico · Módulo 1
 
 ---
 
-## Objetivos
+## 🎯 Objetivos
 
 1. Explicar qué es razonar lógicamente
 2. Distinguir pensamiento lógico y crítico
@@ -19,7 +19,7 @@ Curso: Razonamiento Lógico · Módulo 1
 
 ---
 
-## Ruta de trabajo
+## 🧭 Ruta de trabajo
 
 | Bloque | Tema |
 |--------|------|
@@ -32,15 +32,15 @@ Curso: Razonamiento Lógico · Módulo 1
 
 ---
 
-## ¿Qué es el razonamiento lógico?
+## 🔎 ¿Qué es el razonamiento lógico?
 
-**Datos → pasos justificados → conclusión**
+**📥 Datos → 🪜 pasos justificados → 🏁 conclusión**
 
 Cada paso se apoya en un dato o en el paso anterior.
 
 ---
 
-## ¿Dónde lo usamos?
+## 🌍 ¿Dónde lo usamos?
 
 - Cotidiano: ¿me alcanza el dinero?
 - Académico: explicar por qué es esa la respuesta
@@ -48,7 +48,7 @@ Cada paso se apoya en un dato o en el paso anterior.
 
 ---
 
-## Razonar bien ≠ tener razón
+## ⚖️ Razonar bien ≠ tener razón
 
 Pasos correctos + dato falso = conclusión que puede ser falsa
 
@@ -56,7 +56,7 @@ Se revisan por separado: **los pasos** y **los datos**.
 
 ---
 
-## Pensamiento lógico y crítico
+## 🤝 Pensamiento lógico y crítico
 
 | Lógico | Crítico |
 |--------|---------|
@@ -67,7 +67,7 @@ Punto en común: piden razones y evidencia.
 
 ---
 
-## Problema, información y conclusión
+## 🧩 Problema, información y conclusión
 
 - **Problema**: la pregunta o meta
 - **Información**: los datos disponibles
@@ -75,7 +75,7 @@ Punto en común: piden razones y evidencia.
 
 ---
 
-## Tipos de información
+## 🗂️ Tipos de información
 
 | Tipo | Qué hacer |
 |------|-----------|
@@ -86,17 +86,17 @@ Punto en común: piden razones y evidencia.
 
 ---
 
-## Opinión, hecho e inferencia
+## 🏷️ Opinión, hecho e inferencia
 
 | Tipo | Idea clave |
 |------|------------|
-| Hecho | Se comprueba |
-| Opinión | Se valora |
-| Inferencia | Se deduce de hechos |
+| ✅ Hecho | Se comprueba |
+| 💬 Opinión | Se valora |
+| 🔗 Inferencia | Se deduce de hechos |
 
 ---
 
-## ¿Cómo clasificar?
+## ❓ ¿Cómo clasificar?
 
 1. ¿Se puede comprobar? → hecho
 2. ¿Depende del gusto? → opinión
@@ -104,7 +104,7 @@ Punto en común: piden razones y evidencia.
 
 ---
 
-## Cuidado con los disfraces
+## ⚠️ Cuidado con los disfraces
 
 "Todo el mundo sabe que…" no convierte una opinión en hecho.
 
@@ -112,15 +112,15 @@ Un hecho puede ser **falso**. El contexto aclara casos ambiguos.
 
 ---
 
-## Estrategia: cuatro fases
+## 🗺️ Estrategia: cuatro fases
 
-**Comprender → Planificar → Ejecutar → Verificar**
+**👀 Comprender → 🗓️ Planificar → ⚙️ Ejecutar → 🔁 Verificar**
 
 Si la verificación falla, se vuelve a planificar.
 
 ---
 
-## Estrategias auxiliares
+## 🧰 Estrategias auxiliares
 
 - Representar (dibujo, tabla)
 - Descomponer
@@ -130,7 +130,7 @@ Si la verificación falla, se vuelve a planificar.
 
 ---
 
-## Taller integrador
+## 🛠️ Taller integrador
 
 Problema real con datos relevantes, irrelevantes y faltantes.
 
@@ -138,7 +138,7 @@ Entregable: hoja con las **cuatro fases** documentadas.
 
 ---
 
-## Resumen
+## 📌 Resumen
 
 - Razonar = justificar cada paso
 - Lo crítico evalúa los datos
@@ -147,6 +147,6 @@ Entregable: hoja con las **cuatro fases** documentadas.
 
 ---
 
-## Evaluación
+## 📝 Evaluación
 
 Quiz de 10 ítems: conceptos, clasificación y un problema para resolver con las cuatro fases.

@@ -1,6 +1,6 @@
-# Soluciones del quiz (material docente)
+# 📝 Soluciones del quiz (material docente)
 
-> Uso exclusivo del docente. No compartir con el estudiante.
+> 🔒 Uso exclusivo del docente. No compartir con el estudiante.
 
 | Ítem | Respuesta | Justificación |
 |------|-----------|---------------|

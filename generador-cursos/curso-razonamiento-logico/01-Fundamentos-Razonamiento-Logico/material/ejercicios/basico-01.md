@@ -1,6 +1,6 @@
-# Básico 01 — Razonamiento lógico y pensamiento crítico
+# 🌱 Básico 01 — Razonamiento lógico y pensamiento crítico
 
-## Enunciado
+## 📝 Enunciado
 
 1. Explica con tus palabras qué es el razonamiento lógico (2 o 3 frases).
 2. Describe una situación de tu vida cotidiana, una académica y una laboral en las que lo usas.
@@ -11,19 +11,19 @@
    4. Ordenar los pasos que llevan de unos datos a un resultado sin saltarse ninguno.
 4. Escribe la diferencia principal entre pensamiento lógico y pensamiento crítico, y un punto en común.
 
-## Proceso esperado
+## 🧭 Proceso esperado
 
 Responde por escrito; justifica cada clasificación del punto 3 en una frase.
 
-## Resultado esperado
+## 🎯 Resultado esperado
 
 Una definición propia coherente, tres situaciones distintas, cuatro clasificaciones justificadas y la comparación del punto 4.
 
-## Restricciones
+## 🚧 Restricciones
 
 - Máximo una página.
 - No copies definiciones: usa tus palabras.
 
-## Resultados de aprendizaje
+## 🎓 Resultados de aprendizaje
 
 RA-1, RA-2

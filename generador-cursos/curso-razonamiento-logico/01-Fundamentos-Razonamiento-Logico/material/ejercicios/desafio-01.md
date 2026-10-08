@@ -1,6 +1,6 @@
-# Desafío 01 — Analizar y resolver un problema completo
+# 🏆 Desafío 01 — Analizar y resolver un problema completo
 
-## Enunciado
+## 📝 Enunciado
 
 Lee el texto.
 
@@ -14,24 +14,24 @@ Responde:
 4. ¿Cuánto dinero queda para refrigerios después de mesas y carteles? ¿Se puede decidir cuántos refrigerios comprar?
 5. Documenta las cuatro fases de la estrategia y la verificación.
 
-## Proceso esperado
+## 🧭 Proceso esperado
 
 Primero analiza (puntos 1 a 3); luego resuelve (4) siguiendo las cuatro fases (5).
 
-## Resultado esperado
+## 🎯 Resultado esperado
 
 Análisis completo del texto, una cantidad final con su verificación y una conclusión que declara lo que no se puede decidir.
 
-## Restricciones
+## 🚧 Restricciones
 
 - Se permiten las cuatro operaciones básicas con números enteros menores que 200 y hasta cinco pasos de cálculo.
 - No inventes el precio de los refrigerios.
 
-## Resultados de aprendizaje
+## 🎓 Resultados de aprendizaje
 
 RA-3, RA-4, RA-5
 
-## Casos de prueba
+## ✅ Casos de prueba
 
 La respuesta es correcta si:
 

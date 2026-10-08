@@ -1,6 +1,6 @@
-# Soluciones de ejercicios y taller (material docente)
+# 🔐 Soluciones de ejercicios y taller (material docente)
 
-> Uso exclusivo del docente. No compartir con el estudiante.
+> 🔒 Uso exclusivo del docente. No compartir con el estudiante.
 
 ## Básico 01
 

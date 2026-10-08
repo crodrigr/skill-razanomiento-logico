@@ -1,6 +1,6 @@
-# Intermedio 01 — Opinión, hecho e inferencia
+# 🌿 Intermedio 01 — Opinión, hecho e inferencia
 
-## Enunciado
+## 📝 Enunciado
 
 **Parte 1.** Clasifica cada enunciado como **opinión**, **hecho** o **inferencia** y justifica con el criterio usado.
 
@@ -19,19 +19,19 @@
 
 **Parte 3.** Entre los enunciados de la Parte 1, señala cuál usa una fórmula de autoridad ("todo el mundo sabe", "es evidente") para parecer un hecho siendo una opinión, y explica por qué.
 
-## Proceso esperado
+## 🧭 Proceso esperado
 
 Aplica las preguntas de clasificación: ¿se comprueba? ¿depende de gusto o valor? ¿se deduce de hechos?
 
-## Resultado esperado
+## 🎯 Resultado esperado
 
 Diez clasificaciones justificadas, dos inferencias con su evidencia y la opinión disfrazada identificada.
 
-## Restricciones
+## 🚧 Restricciones
 
 - Una frase de justificación por enunciado.
 - Usa solo el contexto escrito; no supongas más.
 
-## Resultados de aprendizaje
+## 🎓 Resultados de aprendizaje
 
 RA-4

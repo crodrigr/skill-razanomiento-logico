@@ -1,10 +1,10 @@
-# Quiz 01 — Fundamentos del razonamiento lógico
+# 📝 Quiz 01 — Fundamentos del razonamiento lógico
 
 10 ítems. Sin respuestas (la clave está en `material/soluciones/soluciones-quiz.md`, material exclusivamente docente).
 
 ---
 
-**1. [selección múltiple]**
+**1. 🔘 [selección múltiple]**
 ¿Qué describe mejor el razonamiento lógico?
 
 A. Llegar a una conclusión que coincida con lo que uno ya pensaba.
@@ -16,7 +16,7 @@ _RA: RA-1_
 
 ---
 
-**2. [selección múltiple]**
+**2. 🔘 [selección múltiple]**
 Un razonamiento parte de un dato que resulta ser falso, pero cada paso posterior es correcto. ¿Qué se puede afirmar?
 
 A. La conclusión es necesariamente verdadera.
@@ -28,7 +28,7 @@ _RA: RA-1_
 
 ---
 
-**3. [selección múltiple]**
+**3. 🔘 [selección múltiple]**
 ¿Cuál es la diferencia principal entre pensamiento lógico y pensamiento crítico?
 
 A. El lógico solo se usa en matemáticas y el crítico solo en lenguaje.
@@ -40,7 +40,7 @@ _RA: RA-2_
 
 ---
 
-**4. [selección múltiple]**
+**4. 🔘 [selección múltiple]**
 Un anuncio dice "El 90 % de los usuarios está satisfecho" sin dar más datos. ¿Cuál de estas preguntas es la más propia del pensamiento crítico?
 
 A. ¿De cuántas personas es ese 90 % y quién hizo la medición?
@@ -52,7 +52,7 @@ _RA: RA-2_
 
 ---
 
-**5. [selección múltiple]**
+**5. 🔘 [selección múltiple]**
 En un problema, la información irrelevante es:
 
 A. El dato que se necesita pero no aparece.
@@ -64,7 +64,7 @@ _RA: RA-3_
 
 ---
 
-**6. [identificación de partes]**
+**6. 🔍 [identificación de partes]**
 Lee el texto y señala **(a)** el problema, **(b)** la información relevante, **(c)** la información irrelevante y **(d)** la conclusión:
 
 > Una tienda vende cuadernos a $3 cada uno. Inés tiene $14 y quiere saber cuántos cuadernos puede comprar. El dueño de la tienda usa una camisa roja.
@@ -73,7 +73,7 @@ _RA: RA-3_
 
 ---
 
-**7. [clasificación de enunciados]**
+**7. 🏷️ [clasificación de enunciados]**
 Clasifica cada enunciado como opinión, hecho o inferencia:
 
 a) Ese equipo juega feo.
@@ -84,7 +84,7 @@ _RA: RA-4_
 
 ---
 
-**8. [clasificación de enunciados]**
+**8. 🏷️ [clasificación de enunciados]**
 Clasifica cada enunciado y, en el caso de los hechos, indica si es verdadero o falso:
 
 a) Madrid es la capital de Francia.
@@ -95,7 +95,7 @@ _RA: RA-4_
 
 ---
 
-**9. [corrección de errores]**
+**9. 🛠️ [corrección de errores]**
 Revisa estos dos razonamientos y explica qué falla en cada uno:
 
 a) Problema: "3 cuadernos cuestan $15. ¿Cuánto cuestan 5?". Respuesta de un estudiante: "15 ÷ 5 = 3, así que cuestan $3". ¿En qué fase de la estrategia falló y cómo lo habría detectado?
@@ -106,7 +106,7 @@ _RA: RA-4, RA-5_
 
 ---
 
-**10. [problema breve]**
+**10. 🧮 [problema breve]**
 Una caja tiene el triple de caramelos que otra. Entre las dos hay 48 caramelos. ¿Cuántos tiene cada una? Resuélvelo documentando las cuatro fases (Comprender, Planificar, Ejecutar, Verificar).
 
 _RA: RA-5_

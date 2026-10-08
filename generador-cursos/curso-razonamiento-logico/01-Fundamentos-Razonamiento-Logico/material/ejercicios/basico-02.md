@@ -1,6 +1,6 @@
-# Básico 02 — Problema, información y conclusión
+# 🌱 Básico 02 — Problema, información y conclusión
 
-## Enunciado
+## 📝 Enunciado
 
 Para cada texto, identifica: **(a)** el problema, **(b)** la información relevante, **(c)** la información irrelevante, **(d)** la información faltante o contradictoria y **(e)** la conclusión (o "no se puede concluir" y por qué).
 
@@ -12,19 +12,19 @@ Para cada texto, identifica: **(a)** el problema, **(b)** la información releva
 
 **Texto D.** Un cartel dice: "Abierto de lunes a sábado". Más abajo dice: "Cerrado los fines de semana". ¿Abre el taller el sábado?
 
-## Proceso esperado
+## 🧭 Proceso esperado
 
 Completa una tabla con las cinco columnas (a–e) para cada texto.
 
-## Resultado esperado
+## 🎯 Resultado esperado
 
 Cuatro filas completas; en los textos que no se pueden resolver, se declara el motivo en lugar de inventar un dato.
 
-## Restricciones
+## 🚧 Restricciones
 
 - Aritmética básica; no se usan calculadoras.
 - No inventes datos que no estén en el texto.
 
-## Resultados de aprendizaje
+## 🎓 Resultados de aprendizaje
 
 RA-3

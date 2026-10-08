@@ -1,15 +1,15 @@
-# Ejemplo 02 — Pensamiento lógico y pensamiento crítico
+# ⚖️ Ejemplo 02 — Pensamiento lógico y pensamiento crítico
 
 **Tema**: 2 · **RA**: RA-2
 
-## Situación inicial
+## 📍 Situación inicial
 
 Dos situaciones:
 
 - **A**: una receta indica que 4 personas necesitan 2 tazas de arroz. Se quiere saber cuántas tazas necesitan 10 personas.
 - **B**: un volante afirma: "El 90 % de quienes usan nuestro método bajan de peso". No indica cuántas personas, quién midió ni en cuánto tiempo.
 
-## Razonamiento paso a paso
+## 🧠 Razonamiento paso a paso
 
 **Situación A (pensamiento lógico)**
 1. 4 personas → 2 tazas, es decir, 1 taza cubre 2 personas.
@@ -31,7 +31,7 @@ Dos situaciones:
 | Tipo de pensamiento | Lógico | Crítico |
 | Punto en común | Piden razones y comprobación; no se acepta algo "porque sí" | |
 
-## Resultado esperado
+## 🎯 Resultado esperado
 
 - Diferencia principal: lo lógico verifica *cómo se llega* a la conclusión; lo crítico verifica *si la información y los supuestos merecen confianza*.
 - Punto en común: ambos exigen razones y evidencia.
