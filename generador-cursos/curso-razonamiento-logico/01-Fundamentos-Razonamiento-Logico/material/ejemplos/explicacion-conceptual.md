@@ -24,6 +24,8 @@ resolver problemas → taller integrador → quiz.
 
 **Resultado de aprendizaje**: RA-1
 
+👉 **Ejemplo guiado**: [Ejemplo 01 — ¿Qué es el razonamiento lógico?](./01-que-es-razonamiento-logico.md)
+
 ### 🌍 Contexto
 Todos los días decidimos con datos incompletos: si el dinero alcanza para una compra, a qué hora salir para
 llegar a tiempo, si un mensaje es confiable. Hacerlo bien evita errores y malas decisiones.
@@ -50,6 +52,8 @@ Razonar lógicamente es justificar cada paso entre los datos y la conclusión. L
 ## ⚖️ 2. Pensamiento lógico y pensamiento crítico
 
 **Resultado de aprendizaje**: RA-2
+
+👉 **Ejemplo guiado**: [Ejemplo 02 — Pensamiento lógico y pensamiento crítico](./02-logico-vs-critico.md)
 
 ### 🌍 Contexto
 Recibimos a diario afirmaciones con cifras, promesas y argumentos. Necesitamos tanto
@@ -78,6 +82,8 @@ Lo lógico verifica cómo se llega a la conclusión; lo crítico verifica si lo 
 ## 🧩 3. Problemas, información y conclusiones
 
 **Resultado de aprendizaje**: RA-3
+
+👉 **Ejemplo guiado**: [Ejemplo 03 — Problema, información y conclusión](./03-problema-informacion-conclusion.md)
 
 ### 🌍 Contexto
 Antes de resolver algo hay que saber qué se pregunta y con qué se cuenta. Muchos errores nacen de
@@ -110,6 +116,8 @@ Identifica primero el problema, luego clasifica la información, y concluye solo
 
 **Resultado de aprendizaje**: RA-4
 
+👉 **Ejemplo guiado**: [Ejemplo 04 — Opinión, hecho e inferencia](./04-opinion-hecho-inferencia.md)
+
 ### 🌍 Contexto
 Las afirmaciones no pesan igual. Para decidir cuánto confiar en una, hay que saber qué tipo de afirmación es.
 
@@ -141,6 +149,8 @@ Hecho: se comprueba. Opinión: se valora. Inferencia: se deduce de hechos y pued
 ## 🗺️ 5. Estrategias generales para resolver problemas
 
 **Resultado de aprendizaje**: RA-5
+
+👉 **Ejemplo guiado**: [Ejemplo 05 — Estrategia de resolución](./05-estrategia-resolucion.md)
 
 ### 🌍 Contexto
 Ante un problema nuevo es común bloquearse o improvisar. Un método ordenado reduce errores.
