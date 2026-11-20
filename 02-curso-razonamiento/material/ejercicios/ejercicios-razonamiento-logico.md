@@ -1,220 +1,147 @@
 # 🧩 Ejercicios de razonamiento lógico
 
-> 💡 Resuelve cada ejercicio por tu cuenta y luego despliega **Mostrar solución** para comprobar tu respuesta.
+> 💡 Despliega cada ejercicio con **Mostrar / ocultar** y abórdalos uno por uno. Las figuras y enunciados están en las imágenes.
 
-## ✏️ Ejercicio 1
+<details>
+<summary>✏️ Ejercicio 1 — mostrar / ocultar</summary>
 
 ![Ejercicio 1](../imagenes/ejercicio-01.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 1](../imagenes/solucion-01.png)
-
 </details>
 
-## ✏️ Ejercicio 2
+<details>
+<summary>✏️ Ejercicio 2 — mostrar / ocultar</summary>
 
 ![Ejercicio 2](../imagenes/ejercicio-02.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 2](../imagenes/solucion-02.png)
-
 </details>
 
-## ✏️ Ejercicio 3
+<details>
+<summary>✏️ Ejercicio 3 — mostrar / ocultar</summary>
 
 ![Ejercicio 3](../imagenes/ejercicio-03.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 3](../imagenes/solucion-03.png)
-
 </details>
 
-## ✏️ Ejercicio 4
+<details>
+<summary>✏️ Ejercicio 4 — mostrar / ocultar</summary>
 
 ![Ejercicio 4](../imagenes/ejercicio-04.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 4](../imagenes/solucion-04.png)
-
 </details>
 
-## ✏️ Ejercicio 5
+<details>
+<summary>✏️ Ejercicio 5 — mostrar / ocultar</summary>
 
 ![Ejercicio 5](../imagenes/ejercicio-05.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 5](../imagenes/solucion-05.png)
-
 </details>
 
-## ✏️ Ejercicio 6
+<details>
+<summary>✏️ Ejercicio 6 — mostrar / ocultar</summary>
 
 ![Ejercicio 6](../imagenes/ejercicio-06.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 6](../imagenes/solucion-06.png)
-
 </details>
 
-## ✏️ Ejercicio 7
+<details>
+<summary>✏️ Ejercicio 7 — mostrar / ocultar</summary>
 
 ![Ejercicio 7](../imagenes/ejercicio-07.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 7](../imagenes/solucion-07.png)
-
 </details>
 
-## ✏️ Ejercicio 8
+<details>
+<summary>✏️ Ejercicio 8 — mostrar / ocultar</summary>
 
 ![Ejercicio 8](../imagenes/ejercicio-08.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 8](../imagenes/solucion-08.png)
-
 </details>
 
-## ✏️ Ejercicio 9
+<details>
+<summary>✏️ Ejercicio 9 — mostrar / ocultar</summary>
 
 ![Ejercicio 9](../imagenes/ejercicio-09.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 9](../imagenes/solucion-09.png)
-
 </details>
 
-## ✏️ Ejercicio 10
+<details>
+<summary>✏️ Ejercicio 10 — mostrar / ocultar</summary>
 
 ![Ejercicio 10](../imagenes/ejercicio-10.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 10](../imagenes/solucion-10.png)
-
 </details>
 
-## ✏️ Ejercicio 11
+<details>
+<summary>✏️ Ejercicio 11 — mostrar / ocultar</summary>
 
 ![Ejercicio 11](../imagenes/ejercicio-11.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 11](../imagenes/solucion-11.png)
-
 </details>
 
-## ✏️ Ejercicio 12
+<details>
+<summary>✏️ Ejercicio 12 — mostrar / ocultar</summary>
 
 ![Ejercicio 12](../imagenes/ejercicio-12.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 12](../imagenes/solucion-12.png)
-
 </details>
 
-## ✏️ Ejercicio 13
+<details>
+<summary>✏️ Ejercicio 13 — mostrar / ocultar</summary>
 
 ![Ejercicio 13](../imagenes/ejercicio-13.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 13](../imagenes/solucion-13.png)
-
 </details>
 
-## ✏️ Ejercicio 14
+<details>
+<summary>✏️ Ejercicio 14 — mostrar / ocultar</summary>
 
 ![Ejercicio 14](../imagenes/ejercicio-14.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 14](../imagenes/solucion-14.png)
-
 </details>
 
-## ✏️ Ejercicio 15
+<details>
+<summary>✏️ Ejercicio 15 — mostrar / ocultar</summary>
 
 ![Ejercicio 15](../imagenes/ejercicio-15.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 15](../imagenes/solucion-15.png)
-
 </details>
 
-## ✏️ Ejercicio 16
+<details>
+<summary>✏️ Ejercicio 16 — mostrar / ocultar</summary>
 
 ![Ejercicio 16](../imagenes/ejercicio-16.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 16](../imagenes/solucion-16.png)
-
 </details>
 
-## ✏️ Ejercicio 17
+<details>
+<summary>✏️ Ejercicio 17 — mostrar / ocultar</summary>
 
 ![Ejercicio 17](../imagenes/ejercicio-17.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 17](../imagenes/solucion-17.png)
-
 </details>
 
-## ✏️ Ejercicio 18
+<details>
+<summary>✏️ Ejercicio 18 — mostrar / ocultar</summary>
 
 ![Ejercicio 18](../imagenes/ejercicio-18.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 18](../imagenes/solucion-18.png)
-
 </details>
 
-## ✏️ Ejercicio 19
+<details>
+<summary>✏️ Ejercicio 19 — mostrar / ocultar</summary>
 
 ![Ejercicio 19](../imagenes/ejercicio-19.png)
 
-<details>
-<summary>👁️ Mostrar / ocultar solución</summary>
-
-![Solución del ejercicio 19](../imagenes/solucion-19.png)
-
 </details>
 
-## ✏️ Ejercicio 20
+<details>
+<summary>✏️ Ejercicio 20 — mostrar / ocultar</summary>
 
 ![Ejercicio 20, parte 1](../imagenes/ejercicio-20-parte-1.png)
 
 ![Ejercicio 20, parte 2](../imagenes/ejercicio-20-parte-2.png)
 
 > 🚧 Ejercicio para hacer: no tiene solución publicada.
+
+</details>
